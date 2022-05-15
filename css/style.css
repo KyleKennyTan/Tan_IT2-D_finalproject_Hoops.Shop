@@ -1,0 +1,601 @@
+/*External CSS*/
+
+body{
+    background-color: black;
+    font-family: century gothic;
+    font-size: 16px;
+	margin: 0px;
+	padding: px;
+	background-size: 100%;
+}
+div.cover{
+	background-color: rgb(33, 40, 49);
+	width: 1250px;
+	margin: 0 auto;
+	padding: 0px;
+}
+div.cover img{
+	width: 100%;
+	margin: 0 auto;
+}
+div.header{
+	padding: 0px;
+}
+
+div.nav ul{
+	margin: 0px;
+	padding: 0px 0;
+	background-color: #80471C;
+
+}
+div.nav ul li{
+	list-style-type: none;
+	display: inline-block;
+}
+div.nav ul li a{
+	text-decoration: none;
+	color: white;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-right: -20 px;
+	padding: 20px;
+}
+div.nav ul li a.active{
+	color: white;
+}
+div.nav ul li a:hover{
+	color: black;
+}
+
+/*Next ay Banner*/
+/*div.banner{
+	
+}
+*/
+
+div.banner{
+	width: 100%;
+	height: 500px;
+
+}
+div.banner img{
+	width: 100%;
+	height: 500px;
+	padding-top: 10px;
+}
+div.main{
+	min-height: 400px;
+}
+div.left-side-bar{
+	width: 250px;
+	float: left;
+	border: 1px solid white;
+	min-height: 50px;
+	margin: 20px 20px 20px 0px;
+	padding: 5px;
+}
+div.left-side-bar h2{
+	margin:10px;
+	padding: 5px;
+	text-align: center;
+	text-transform: uppercase;
+	color: white;
+}
+div.left-side-bar ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+div.left-side-bar ul li{
+	margin: 0;
+	text-align: center;
+	border-bottom: 2px solid white;
+}
+div.left-side-bar ul li a{
+	display: block;
+	width: 100%;
+	padding: 10px 0;
+	text-decoration: none;
+	font-weight: bold;
+	color:        white;
+	background-color: #FF0000;
+}
+div.left-side-bar ul li a:hover{
+	color: black;
+}
+div.content{
+	width: 587px;
+	float: left;
+	min-height: 450px;
+	margin: 10px;
+	padding: 10px;
+	
+}
+div.content h1{
+	text-align: center;
+	padding: 5px;
+	margin: 0px;
+	color: white;
+	font-weight: 30px;
+	
+}
+
+div.content h1{
+	padding: px;
+	margin: 0px;
+	color: #FF0000;
+}
+
+div.content p{
+	color: white;
+	text-align: justify;
+	line-height: 1.5;
+}
+
+div.right-side-bar{
+	width: 325px;
+	float: right;
+	min-height: 40px;
+	margin: 10px 0px 10px 10px;
+}
+
+div.right-side-bar ul{
+	margin:0px;
+	padding: 30px;
+}
+
+div.right-side-bar ul li{
+	list-style-type: none;
+}
+
+div.right-side-bar ul li img{
+	width: 100%;
+}
+div.footer {
+	clear: both;
+	border-top: 2px solid white;
+	padding: 10px;
+	text-align: center;
+	background-color: rgb(33, 40, 49);
+}
+
+div.footer p{
+	font-weight: bold;
+}
+
+div.footer img{
+	padding: 3px;
+	margin: 0px;
+	width: 30px;
+	border-radius: 50%;
+}
+/* shoes */
+div.nav ul{
+	margin: 0px;
+	padding: 15px;
+}
+
+
+.shoes{
+    float: center;
+    display: inline;
+    direction: initial;
+    flex direction: column;
+    justify-content: space-around;
+    font-size: 1.50 em;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+div.shoes {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	
+}
+div.shoes img{
+	width: 200px;
+	height: 200px;
+	padding: 10px;	
+}
+
+.shoes img:hover{
+	transform: scale(1.2);
+}
+.contact-form-btn{
+
+	border: 0;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.shoes1{
+    float: center;
+    display: inline;
+    direction: initial;
+    flex direction: column;
+    justify-content: space-around;
+    font-size: 1.50 em;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+
+}
+div.shoes1 {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	
+}
+div.shoes1 img{
+	width: 200px;
+	height: 200px;
+	padding: 10px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.shoes1 img:hover{
+	transform: scale(1.2);
+
+}
+/* T Shirts */
+div.nav ul{
+	margin: 0px;
+	padding: 15px;
+}
+
+
+.shoes{
+    float: center;
+    display: inline;
+    direction: initial;
+    flex direction: column;
+    justify-content: space-around;
+    font-size: 1.50 em;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+div.shoes {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	
+}
+div.shoes img{
+	width: 200px;
+	height: 200px;
+	padding: 10px;	
+}
+
+.shoes img:hover{
+	transform: scale(1.2);
+}
+.contact-form-btn{
+
+	border: 0;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.shoes1{
+    float: center;
+    display: inline;
+    direction: initial;
+    flex direction: column;
+    justify-content: space-around;
+    font-size: 1.50 em;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+
+}
+div.shoes1 {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	
+}
+div.shoes1 img{
+	width: 200px;
+	height: 200px;
+	padding: 10px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.shoes1 img:hover{
+	transform: scale(1.2);
+
+}
+.contact-form-btn{
+
+	border: 0;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.shoes2{
+    float: center;
+    display: inline;
+    direction: initial;
+    flex direction: column;
+    justify-content: space-around;
+    font-size: 1.50 em;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+
+
+}
+div.shoes2 {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	
+}
+div.shoes2 img{
+	width: 200px;
+	height: 200px;
+	padding: 10px;
+	
+}
+
+.shoes2 img:hover{
+	transform: scale(1.2);
+
+}
+/* Contact*/
+.contact-form-btn{
+	border: 0;
+    cursor: pointer;
+    transition: 0.5s;
+     border-radius: 20px;
+}
+.contact-section img{
+	max-width: 40%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	
+
+}
+
+.contact-section{
+	background: rgba(225, 255, 255, 0.5);
+	padding: 40px 0;
+
+}
+.contact-section h1{
+	
+	color: white;
+	text-align: center;
+	padding: 0;
+
+/* About Us*/
+}
+.aboutus{
+
+	width: 1250px;
+    height: 500px;
+    background: rgba(225, 255, 255, 0.5);
+    float: center;
+    margin-right: 500px;
+    display: flex;
+    flex direction: column;
+    justify-content: space-around;
+    font-size: 1.50 em;
+    color: black;
+    font-family: sans-serif;
+    background-color: darkgreen;
+}
+
+.aboutus h1{
+	padding: 50px;
+	margin: 70px 30px ;
+	color: black;
+	font-size: 40px;
+	text-align: left;
+   font-family: century gothic;
+
+}
+
+.aboutus p {
+	padding: 90px;
+	text-align: justify;
+	line-height: 2;
+	color: white;
+	font-weight: bold;
+	font-family: century gothic;
+	font-size: 20px;
+}
+.contact-form{
+	max-width: 600px;
+	margin: auto;
+	padding: 10px;
+	overflow: hidden;
+}
+.contact-form-text{
+	display: block;
+	width: 1000px;
+	box-sizing: border-box;
+	margin: 20px 20px 20px 90px;
+	border: 0;
+	background: white;
+	padding: 20px 40px;
+	outline: none;
+	color:#ddd;
+	transition: 0.5s;
+}
+
+.contact-form-text:focus{
+	box-shadow: 0 10px 30px 22px white;
+
+}
+.textarea.contact-form-text{
+	resize: none;
+    height: 120px;   
+}
+.contact-form-btn{
+	float: center;
+	border: 0;
+	background: #34495e;
+	color: #fff;
+	padding: 12px 50px;
+	margin: 10px 10px 10px 550px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.contact-section{
+	background-color: darkgreen;
+}
+.container{
+	text-align: center;
+
+}
+.gcashpayment{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+
+}
+.gcashpayment h1{
+	color: white;
+	text-align: center;
+}
+/* Membership*/
+.membership{
+	width: 1250px;
+    height: 500px;
+    background: rgba(225, 255, 255, 0.5);
+    float: center;
+    margin-right: 500px;
+    display: flex;
+    flex direction: column;
+    justify-content: space-around;
+    font-size: 1.50 em;
+    color: black;
+    font-family: sans-serif;
+    background-color: darkgreen;
+}
+
+.membership h1{
+	padding: 50px;
+	margin: 70px 30px ;
+	color: black;
+	font-size: 55px;
+	text-align: center;
+   font-family: century gothic;
+
+}
+
+.membership p {
+	padding: 90px;
+	text-align: center;
+	line-height: 2;
+	color: black;
+	font-weight: bold;
+	font-family: century gothic;
+	font-size: 20px;
+	color: white;
+}
+/* QnA*/
+.qnadiscount{
+
+	width: 1250px;
+    height: 500px;
+    background: rgba(225, 255, 255, 0.5);
+    float: center;
+    margin-right: 500px;
+    display: flex;
+    flex direction: column;
+    justify-content: space-around;
+    font-size: 1.50 em;
+    color: black;
+    font-family: sans-serif;
+    background-color: darkgreen;
+}
+
+.qnadiscount h1{
+	padding: 50px;
+	margin: 70px 30px ;
+	color: black;
+	font-size: 55px;
+	text-align: left;
+   font-family: century gothic;
+
+}
+
+.qnadiscount p {
+	padding: 90px;
+	text-align: justify;
+	line-height: 2;
+	color: black;
+	font-weight: bold;
+	font-family: century gothic;
+	font-size: 20px;
+	color: white;
+}
+.help{
+
+	width: 1250px;
+    height: 200px;
+    background: rgba(225, 255, 255, 0.5);
+    float: center;
+    margin-right: 500px;
+    display: flex;
+    flex direction: column;
+    justify-content: space-around;
+    font-size: 1.50 em;
+    color: black;
+    font-family: sans-serif;
+    background-color: darkgreen;
+}
+.help h1{
+	text-align: center;
+
+}
+.help p{
+	color: white;
+	text-align: center;
+	font-size: 20px;
+
+}
+.studentdiscount{
+	width: 1250px;
+    height: 500px;
+    background: rgba(225, 255, 255, 0.5);
+    float: center;
+    margin-right: 500px;
+    display: flex;
+    flex direction: column;
+    justify-content: space-around;
+    font-size: 1.50 em;
+    color: black;
+    font-family: sans-serif;
+    background-color: darkgreen;
+}
+
+.studentdiscount h1{
+	padding: 50px;
+	margin: 70px 30px ;
+	color: black;
+	font-size: 40px;
+	text-align: center;
+   font-family: century gothic;
+
+}
+
+.studentdiscount p {
+	padding: 90px;
+	text-align: center;
+	line-height: 2;
+	color: black;
+	font-weight: bold;
+	font-family: century gothic;
+	font-size: 20px;
+	color: white;
+}
