@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Hoops.Shop [
+<!ELEMENT menu (membership_code, Gcash_payment_code, QnA_discount,Student_discount)>
+<!ELEMENT bape_shoes (item, price)>
+<!ELEMENT bape_shirt (item, price)>
+<!ELEMENT bape_supreme (item, price)>
+<!ELEMENT bape_men (item, price)>
+<!ELEMENT bape_supremestuffs (item, price)>
+
+
+
+
+<!ELEMENT membership_code (#PCDATA)>
+<!ELEMENT Gcash_payment_code (#PCDATA)>
+<!ELEMENT QnA_discount (#PCDATA)>
+<!ELEMENT Student_discount (#PCDATA)>
+
+<!ELEMENT item (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+
+
+
+]>
+<menu>
+	<membership_code>Welcome! If you want to be a member of our shop please send us your personal info in our gmail account (hoops_shop@gmail.com) and use the code (w1U91p3) to avail a limited time discount.</membership_code>
+	<Gcash_payment_code>QR code</Gcash_payment_code>
+	<QnA_discount>Please answer the following equation to have a big discount. 1. 9 + 320 ÷ 7 = 2. √81 ÷ 3 × 930 = 3. √8100 × 10 × 700 = 4. 639 × 263 ÷ 80 = 5. 493 × 6302 + 80 = Please send us your answer in Hoops_Shop@gmail.com to claim your discount promo.</QnA_discount>
+	<Student_dicount>Yes, eligible college and university students can take advantage of a 10% discount on any orders. To claim the discount, simply verify your student status with your ID and you'll receive a single-use promo code for 10% off most Hoops.shop items.</Student_dicount>
+
+
+	<bape_shoes>
+		<item>Bape_spongebob</item>
+		<price>₱14,540.00</price>
+		<item>Bape_detroit</item>
+		<price>₱14,240.00</price>
+		<item>Bape_light</item>
+		<price>₱14,200.00</price>
+		<item>Bape_dark</item>
+		<price>₱14,270.00</price>
+		<item>Bape_shark</item>
+		<price>₱14,000.00</price>
+		<item>Bape_skyhigh</item>
+		<price>₱14,050.00</price>
+		<item>Bape_yellow X green</item>
+		<price>₱14,200.00</price>
+		<item>Bape_houston</item>
+		<price>₱14,540.00</price>
+		<item>Bape_triple pink</item>
+		<price>₱14,250.00</price>
+		<item>Bape_patrick</item>
+		<price>₱14,540.00</price>
+		<item>Bape_jaguar</item>
+		<price>₱14,300.00</price>
+		<item>Bape_purple</item>
+		<price>₱14,300.00</price>
+	</bape_shoes>
+
+	<bape_shirt>
+		<item>Bape Camo</item>
+		<price>₱8,540.00</price>
+		<item>Bape Ape1</item>
+		<price>₱10,240.00</price>
+		<item>Bape Ape2</item>
+		<price>₱9,200.00</price>
+		<item>Bape Ape3</item>
+		<price>₱8,270.00</price>
+		<item>Bape Yellow</item>
+		<price>₱27,000.00</price>
+		<item>Bape Camo</item>
+		<price>₱25,050.00</price>
+		<item>Bape Pink</item>
+		<price>₱19,200.00</price>
+		<item>Bape Supreme</item>
+		<price>₱14,540.00</price>
+		<item>Bape Chicago</item>
+		<price>₱9,250.00</price>
+		<item>Bape Lakers</item>
+		<price>₱10.250.00</price>
+		<item>Bape Warriors</item>
+		<price>₱9,300.00</price>
+		<item>Bape_Raptors</item>
+		<price>₱8,300.00</price>
+	</bape_shirt>
+
+
+	<bape_supreme>
+		<item>Supreme Red  Skull</item>
+		<price>₱73,760.00</price>
+		<item>Supreme Smurfs</item>
+		<price>₱43,700.00</price>
+		<item>Supreme Black Skull</item>
+		<price>₱43,700.00</price>
+		<item>Supreme Plain White Hoodie</item>
+		<price>40,540.00</price>
+		<item>Supreme Off-Shot</item>
+		<price>₱8,270.00</price>
+		<item>Supreme High-Pumpupreme High-Pump</item>
+		<price>₱26,950.00</price>
+		<item>Supreme UCLA </item>
+		<price>₱30,100.00</price>
+		<item>Supreme Red One</item>
+		<price>₱40,900.00</price>
+		<item>Supreme Racing Jacket</item>
+		<price>₱89,560.00</price>
+		<item>Supreme Bomber Red</item>
+		<price>₱47,400.00</price>
+		<item>Supreme NASA</item>
+		<price>₱50,600.00</price>
+		<item>Supreme New York</item>
+		<price>27,450.00</price>
+	</bape_supreme>
+
+
+	<bape_men>
+		<item>Gucci Beige</item>
+		<price>₱30,760.00</price>
+		<item>Gucci Pair</item>
+		<price>20,840.00</price>
+		<item>Bape Ape2</item>
+		<price>₱43,700.00</price>
+		<item>Gucci Formal</item>
+		<price>₱8,270.00</price>
+		<item>Gucci Vogue</item>
+		<price>₱40,540.00</price>
+		<item>Gucci White</item>
+		<price>₱56,000.00</price>
+		<item>Gucci Lowcut </item>
+		<price>₱26,950.00</price>
+		<item>Gucci Highcut</item>
+		<price>₱30,100.00</price>
+		<item>Gucci Topsider</item>
+		<price>₱40,900.00</price>
+		<item>Gucci Beltbag</item>
+		<price>₱89,560.00</price>
+		<item>Gucci Sunglass</item>
+		<price>₱47,400.00</price>
+		<item>Gucci Wallet</item>
+		<price>27,600.00</price>
+		<item>Gucci Perfume</item>
+		<price>₱50,450.00</price>
+	</bape_men>
+
+	<bape_supremestuffs>
+		<item>Supreme Lighter</item>
+		<price>₱38,940.00</price>
+		<item>Supreme Dice</item>
+		<price>49,540.00</price>
+		<item>Supreme Telescope</item>
+		<price>₱119,400.00</price>
+		<item>Supreme Boxing Gloves</item>
+		<price>₱65,870.00</price>
+		<item>Supreme Razor</item>
+		<price>₱54,700.00</price>
+		<item>Supreme Ball</item>
+		<price>₱79,950.00</price>
+		<item>Supreme Oreo </item>
+		<price>₱69,200.00</price>
+		<item>Supreme Money Gun</item>
+		<price>₱102,800.00</price>
+		<item>Supreme Bottled Water</item>
+		<price>₱79,250.00</price>
+		<item>Supreme Sleeves</item>
+		<price>₱84,750.00</price>
+		<item>Supreme Case</item>
+		<price>₱50,430.00</price>
+		<item>Supreme Dog Bowl</item>
+		<price>₱84,600.00</price>
+	</bape_supremestuffs>
+
+
+</menu>
+
